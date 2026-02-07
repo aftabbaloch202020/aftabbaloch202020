@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 - Facebook: https://facebook.com/yourusername  
 - Instagram: https://instagram.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourusername  
+- LinkedIn: (https://www.linkedin.com/in/aftab-baloch-5951253a0/)  
 - Email: yourmail@gmail.com  
 
 ---
