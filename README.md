@@ -6,10 +6,10 @@
 ---
 
 ## 🌐 Socials:
-- Facebook: https://facebook.com/yourusername  
+- Facebook: https://web.facebook.com/baloch.bahi.106334
 - Instagram: https://instagram.com/yourusername  
-- LinkedIn: (https://www.linkedin.com/in/aftab-baloch-5951253a0/)  
-- Email: yourmail@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aftab-baloch-5951253a0/
+- Email: aftabbaloch.202020@gmail.com  
 
 ---
 
