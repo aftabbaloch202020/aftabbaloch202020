@@ -1,16 +1,34 @@
-## Hi there 👋
+## 💫 About Me:
+👋 Hi, I'm **Aftab Baloch**  
+🌱 I’m currently learning **Web Development** and improving my skills daily  
+💻 I love building modern and responsive websites  
 
-<!--
-**aftabbaloch202020/aftabbaloch202020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+- Facebook: https://facebook.com/yourusername  
+- Instagram: https://instagram.com/yourusername  
+- LinkedIn: https://linkedin.com/in/yourusername  
+- Email: yourmail@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack:
+- HTML5  
+- JavaScript  
+- Bootstrap  
+- TailwindCSS  
+- jQuery  
+- Express.js  
+- Ionic  
+- Figma  
+- Canva  
+- Git  
+- GitHub  
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
